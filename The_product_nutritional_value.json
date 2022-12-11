@@ -1,0 +1,1270 @@
+{
+    "text": "broccoli",
+    "parsed": [
+        {
+            "food": {
+                "foodId": "food_aahw0jha9f8337ajbopx9aec6z7i",
+                "label": "Broccoli",
+                "knownAs": "broccoli",
+                "nutrients": {
+                    "ENERC_KCAL": 34.0,
+                    "PROCNT": 2.82,
+                    "FAT": 0.37,
+                    "CHOCDF": 6.64,
+                    "FIBTG": 2.6
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/3e4/3e47317a3dd54dc911b9c44122285df1.jpg"
+            }
+        }
+    ],
+    "hints": [
+        {
+            "food": {
+                "foodId": "food_aahw0jha9f8337ajbopx9aec6z7i",
+                "label": "Broccoli",
+                "knownAs": "broccoli",
+                "nutrients": {
+                    "ENERC_KCAL": 34.0,
+                    "PROCNT": 2.82,
+                    "FAT": 0.37,
+                    "CHOCDF": 6.64,
+                    "FIBTG": 2.6
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/3e4/3e47317a3dd54dc911b9c44122285df1.jpg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_unit",
+                    "label": "Whole",
+                    "weight": 151.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_bunch",
+                    "label": "Bunch",
+                    "weight": 608.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_head",
+                    "label": "Head",
+                    "weight": 608.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_branch",
+                    "label": "Branch",
+                    "weight": 151.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_stalk",
+                    "label": "Stalk",
+                    "weight": 151.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_serving",
+                    "label": "Serving",
+                    "weight": 148.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_stem",
+                    "label": "Stem",
+                    "weight": 44.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_spear",
+                    "label": "Spear",
+                    "weight": 31.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_cup",
+                    "label": "Cup",
+                    "weight": 91.0,
+                    "qualified": [
+                        {
+                            "qualifiers": [
+                                {
+                                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_chopped",
+                                    "label": "chopped"
+                                }
+                            ],
+                            "weight": 91.0
+                        },
+                        {
+                            "qualifiers": [
+                                {
+                                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_chopped",
+                                    "label": "chopped"
+                                },
+                                {
+                                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_diced",
+                                    "label": "diced"
+                                }
+                            ],
+                            "weight": 88.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_blhjqxuagcrdf7bzsuuezbz813xc",
+                "label": "Broccoli Raab",
+                "knownAs": "broccoli raab",
+                "nutrients": {
+                    "ENERC_KCAL": 22.0,
+                    "PROCNT": 3.17,
+                    "FAT": 0.49,
+                    "CHOCDF": 2.85,
+                    "FIBTG": 2.7
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/52a/52a2e62a7e6ca0963d1cab1f7cbc06f1.jpg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_unit",
+                    "label": "Whole",
+                    "weight": 19.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_bunch",
+                    "label": "Bunch",
+                    "weight": 453.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_serving",
+                    "label": "Serving",
+                    "weight": 40.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_stalk",
+                    "label": "Stalk",
+                    "weight": 19.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_handful",
+                    "label": "Handful",
+                    "weight": 5.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_cup",
+                    "label": "Cup",
+                    "weight": 40.0,
+                    "qualified": [
+                        {
+                            "qualifiers": [
+                                {
+                                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_chopped",
+                                    "label": "chopped"
+                                }
+                            ],
+                            "weight": 40.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_bvq8864bioq3d5ar5ex1tb0qw3dr",
+                "label": "Broccoli Stalk",
+                "knownAs": "broccoli stalk",
+                "nutrients": {
+                    "ENERC_KCAL": 28.0,
+                    "PROCNT": 2.98,
+                    "FAT": 0.35,
+                    "CHOCDF": 5.24
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/f1a/f1ae69537c4e5970d5311923d2c696c4.jpeg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_unit",
+                    "label": "Whole",
+                    "weight": 114.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_serving",
+                    "label": "Serving",
+                    "weight": 114.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_stalk",
+                    "label": "Stalk",
+                    "weight": 114.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_b5r3hr9b7kn0jtaegq6pgbgyr034",
+                "label": "Broccoli Flower",
+                "knownAs": "broccoli florets",
+                "nutrients": {
+                    "ENERC_KCAL": 28.0,
+                    "PROCNT": 2.98,
+                    "FAT": 0.35,
+                    "CHOCDF": 5.24
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/b11/b11b34a0dd535bf7aabeeb5413f24954.jpeg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_serving",
+                    "label": "Serving",
+                    "weight": 71.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_floweret",
+                    "label": "Floweret",
+                    "weight": 11.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_cup",
+                    "label": "Cup",
+                    "weight": 71.0
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_bjn5oefbluo0i9a991wrgbneulxg",
+                "label": "Romanesco Broccoli",
+                "knownAs": "romanesco",
+                "nutrients": {
+                    "ENERC_KCAL": 38.0,
+                    "PROCNT": 4.0,
+                    "FAT": 1.0,
+                    "CHOCDF": 3.0,
+                    "FIBTG": 2.0
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/45d/45d2990b5ac50ff44e4d200c9e68e95f.jpg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_unit",
+                    "label": "Whole",
+                    "weight": 588.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_head",
+                    "label": "Head",
+                    "weight": 588.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_serving",
+                    "label": "Serving",
+                    "weight": 54.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_cup",
+                    "label": "Cup",
+                    "weight": 107.0
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_auwhv3qbogrjhpbld641ga7rlu67",
+                "label": "Broccoli, Raw",
+                "knownAs": "Broccoli, raw",
+                "nutrients": {
+                    "ENERC_KCAL": 34.0,
+                    "PROCNT": 2.82,
+                    "FAT": 0.37,
+                    "CHOCDF": 6.64,
+                    "FIBTG": 2.6
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/3e4/3e47317a3dd54dc911b9c44122285df1.jpg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_cup",
+                    "label": "Cup",
+                    "weight": 91.0,
+                    "qualified": [
+                        {
+                            "qualifiers": [
+                                {
+                                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_chopped",
+                                    "label": "chopped"
+                                }
+                            ],
+                            "weight": 91.0
+                        },
+                        {
+                            "qualifiers": [
+                                {
+                                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_chopped",
+                                    "label": "chopped"
+                                },
+                                {
+                                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_diced",
+                                    "label": "diced"
+                                }
+                            ],
+                            "weight": 88.0
+                        }
+                    ]
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_head",
+                    "label": "Head",
+                    "weight": 608.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_unit",
+                    "label": "Whole",
+                    "weight": 151.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_bunch",
+                    "label": "Bunch",
+                    "weight": 608.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_stalk",
+                    "label": "Stalk",
+                    "weight": 151.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_stem",
+                    "label": "Stem",
+                    "weight": 44.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_spear",
+                    "label": "Spear",
+                    "weight": 31.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_branch",
+                    "label": "Branch",
+                    "weight": 151.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_serving",
+                    "label": "Serving",
+                    "weight": 148.0
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_ajs7njfanlke68asxxa5zb4ao3ba",
+                "label": "Broccoli Leaf",
+                "knownAs": "broccoli leaf",
+                "nutrients": {
+                    "ENERC_KCAL": 28.0,
+                    "PROCNT": 2.98,
+                    "FAT": 0.35,
+                    "CHOCDF": 5.24
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/87c/87c762d138d644c778f058dc3d72e651.jpeg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_serving",
+                    "label": "Serving",
+                    "weight": 60.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_cup",
+                    "label": "Cup",
+                    "weight": 60.0
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_aofyg3ibs74gzbaheqy09bb8vigh",
+                "label": "Broccoli Raab, Raw",
+                "knownAs": "Broccoli raab, raw",
+                "nutrients": {
+                    "ENERC_KCAL": 22.0,
+                    "PROCNT": 3.17,
+                    "FAT": 0.49,
+                    "CHOCDF": 2.85,
+                    "FIBTG": 2.7
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/52a/52a2e62a7e6ca0963d1cab1f7cbc06f1.jpg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_bunch",
+                    "label": "Bunch",
+                    "weight": 453.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_cup",
+                    "label": "Cup",
+                    "weight": 40.0,
+                    "qualified": [
+                        {
+                            "qualifiers": [
+                                {
+                                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_chopped",
+                                    "label": "chopped"
+                                }
+                            ],
+                            "weight": 40.0
+                        }
+                    ]
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_unit",
+                    "label": "Whole",
+                    "weight": 19.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_stalk",
+                    "label": "Stalk",
+                    "weight": 19.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_handful",
+                    "label": "Handful",
+                    "weight": 5.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_serving",
+                    "label": "Serving",
+                    "weight": 40.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_aplc4mpbm89ybea81xz7vam9n74j",
+                "label": "Broccoli, Leaves, Raw",
+                "knownAs": "Broccoli, leaves, raw",
+                "nutrients": {
+                    "ENERC_KCAL": 28.0,
+                    "PROCNT": 2.98,
+                    "FAT": 0.35,
+                    "CHOCDF": 5.24
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/87c/87c762d138d644c778f058dc3d72e651.jpeg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_cup",
+                    "label": "Cup",
+                    "weight": 60.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_serving",
+                    "label": "Serving",
+                    "weight": 60.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_aosjuw5ahrhzfwb0sed9bbj82meg",
+                "label": "Broccoli, Stalks, Raw",
+                "knownAs": "Broccoli, stalks, raw",
+                "nutrients": {
+                    "ENERC_KCAL": 28.0,
+                    "PROCNT": 2.98,
+                    "FAT": 0.35,
+                    "CHOCDF": 5.24
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/f1a/f1ae69537c4e5970d5311923d2c696c4.jpeg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_unit",
+                    "label": "Whole",
+                    "weight": 114.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_serving",
+                    "label": "Serving",
+                    "weight": 114.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_stalk",
+                    "label": "Stalk",
+                    "weight": 114.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_bsh2mi9amsxta3b5dcc6gatede7t",
+                "label": "Broccoli Raab, Cooked",
+                "knownAs": "Broccoli raab, cooked",
+                "nutrients": {
+                    "ENERC_KCAL": 33.0,
+                    "PROCNT": 3.83,
+                    "FAT": 0.52,
+                    "CHOCDF": 3.12,
+                    "FIBTG": 2.8
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/fd4/fd489132f2e4983513c29cad50704fd3.jpg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_bunch",
+                    "label": "Bunch",
+                    "weight": 437.0,
+                    "qualified": [
+                        {
+                            "qualifiers": [
+                                {
+                                    "uri": "http://www.edamam.com/ontologies/edamam.owl#LanguaL_F0014",
+                                    "label": "FULLY HEAT-TREATED"
+                                }
+                            ],
+                            "weight": 437.0
+                        }
+                    ]
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_serving",
+                    "label": "Serving",
+                    "weight": 85.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_bjphkgoadc7y40bgm1leialqxha7",
+                "label": "Broccoli, Chinese, Cooked",
+                "knownAs": "Broccoli, chinese, cooked",
+                "nutrients": {
+                    "ENERC_KCAL": 22.0,
+                    "PROCNT": 1.14,
+                    "FAT": 0.72,
+                    "CHOCDF": 3.81,
+                    "FIBTG": 2.5
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/3d5/3d50ab5e63bd0be3d53b10bb9b010440.jpg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_cup",
+                    "label": "Cup",
+                    "weight": 88.0
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_abig46bbunxuleabm6u3pahe4wr3",
+                "label": "Cooked Broccoli Raab",
+                "knownAs": "cooked broccoli raab",
+                "nutrients": {
+                    "ENERC_KCAL": 33.0,
+                    "PROCNT": 3.83,
+                    "FAT": 0.52,
+                    "CHOCDF": 3.12,
+                    "FIBTG": 2.8
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/fd4/fd489132f2e4983513c29cad50704fd3.jpg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_bunch",
+                    "label": "Bunch",
+                    "weight": 437.0,
+                    "qualified": [
+                        {
+                            "qualifiers": [
+                                {
+                                    "uri": "http://www.edamam.com/ontologies/edamam.owl#LanguaL_F0014",
+                                    "label": "FULLY HEAT-TREATED"
+                                }
+                            ],
+                            "weight": 437.0
+                        }
+                    ]
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_serving",
+                    "label": "Serving",
+                    "weight": 85.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_bfxethqb049w9nbuz071ybktb2c3",
+                "label": "Broccoli, Flower Clusters, Raw",
+                "knownAs": "Broccoli, flower clusters, raw",
+                "nutrients": {
+                    "ENERC_KCAL": 28.0,
+                    "PROCNT": 2.98,
+                    "FAT": 0.35,
+                    "CHOCDF": 5.24
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/b11/b11b34a0dd535bf7aabeeb5413f24954.jpeg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_cup",
+                    "label": "Cup",
+                    "weight": 71.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_serving",
+                    "label": "Serving",
+                    "weight": 71.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_floweret",
+                    "label": "Floweret",
+                    "weight": 11.0
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_b5ckz6zaixt8eyard9gbabrrcysc",
+                "label": "Broccoli, Frozen, Chopped, Unprepared",
+                "knownAs": "Broccoli, frozen, chopped, unprepared",
+                "nutrients": {
+                    "ENERC_KCAL": 26.0,
+                    "PROCNT": 2.81,
+                    "FAT": 0.29,
+                    "CHOCDF": 4.78,
+                    "FIBTG": 3.0
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/4ca/4cacf45d02ddf95311607a4e75480fcd.jpg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_package",
+                    "label": "Package",
+                    "weight": 284.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_cup",
+                    "label": "Cup",
+                    "weight": 156.0
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_admvyoealvdzomavhdowlbz2b223",
+                "label": "Broccoli, Frozen, Spears, Unprepared",
+                "knownAs": "Broccoli, frozen, spears, unprepared",
+                "nutrients": {
+                    "ENERC_KCAL": 29.0,
+                    "PROCNT": 3.06,
+                    "FAT": 0.34,
+                    "CHOCDF": 5.35,
+                    "FIBTG": 3.0
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/af2/af23edde5840411ee7c444d9a2f5aab2.jpg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_package",
+                    "label": "Package",
+                    "weight": 287.8787878787879
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_bex5uqkargdqxjbmcxk42bbk436z",
+                "label": "Canned Broccoli Cheese Soup",
+                "knownAs": "canned broccoli cheese soup",
+                "nutrients": {
+                    "ENERC_KCAL": 87.0,
+                    "PROCNT": 2.1,
+                    "FAT": 5.3,
+                    "CHOCDF": 7.7,
+                    "FIBTG": 1.8
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/23f/23fdc006310a1c9807efde6c32fe82ef.jpg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_serving",
+                    "label": "Serving",
+                    "weight": 121.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_can",
+                    "label": "Can",
+                    "weight": 303.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_bpzf32qaetzijzbyi6f48a527ygy",
+                "label": "Broccoli, Cooked, Boiled, Drained, With Salt",
+                "knownAs": "Broccoli, cooked, boiled, drained, with salt",
+                "nutrients": {
+                    "ENERC_KCAL": 35.0,
+                    "PROCNT": 2.38,
+                    "FAT": 0.41,
+                    "CHOCDF": 7.18,
+                    "FIBTG": 3.3
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/e00/e007f839adca0ee9034f6d4798542f00.jpeg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_stalk",
+                    "label": "Stalk",
+                    "weight": 196.88888888888889,
+                    "qualified": [
+                        {
+                            "qualifiers": [
+                                {
+                                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_large",
+                                    "label": "large"
+                                }
+                            ],
+                            "weight": 280.0
+                        },
+                        {
+                            "qualifiers": [
+                                {
+                                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_small",
+                                    "label": "small"
+                                }
+                            ],
+                            "weight": 140.0
+                        },
+                        {
+                            "qualifiers": [
+                                {
+                                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_medium",
+                                    "label": "medium"
+                                }
+                            ],
+                            "weight": 180.0
+                        }
+                    ]
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_spear",
+                    "label": "Spear",
+                    "weight": 37.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_cup",
+                    "label": "Cup",
+                    "weight": 156.0,
+                    "qualified": [
+                        {
+                            "qualifiers": [
+                                {
+                                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Qualifier_chopped",
+                                    "label": "chopped"
+                                }
+                            ],
+                            "weight": 156.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_arx4nscbtj78fvazny5woa7tvduo",
+                "label": "Babyfood, Dinner, Broccoli and Chicken, Junior",
+                "knownAs": "Babyfood, dinner, broccoli and chicken, junior",
+                "nutrients": {
+                    "ENERC_KCAL": 62.0,
+                    "PROCNT": 3.59,
+                    "FAT": 2.48,
+                    "CHOCDF": 6.34,
+                    "FIBTG": 1.4
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_container",
+                    "label": "Container",
+                    "weight": 162.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_tablespoon",
+                    "label": "Tablespoon",
+                    "weight": 29.0
+                }
+            ]
+        },
+        {
+            "food": {
+                "foodId": "food_batsh0zb1kxkszbvbdvq9a4jz5a6",
+                "label": "Soup, Broccoli Cheese, Canned, Condensed, Commercial",
+                "knownAs": "Soup, broccoli cheese, canned, condensed, commercial",
+                "nutrients": {
+                    "ENERC_KCAL": 87.0,
+                    "PROCNT": 2.1,
+                    "FAT": 5.3,
+                    "CHOCDF": 7.7,
+                    "FIBTG": 1.8
+                },
+                "category": "Generic foods",
+                "categoryLabel": "food",
+                "image": "https://www.edamam.com/food-img/23f/23fdc006310a1c9807efde6c32fe82ef.jpg"
+            },
+            "measures": [
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_ounce",
+                    "label": "Ounce",
+                    "weight": 28.349523125
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_can",
+                    "label": "Can",
+                    "weight": 303.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_serving",
+                    "label": "Serving",
+                    "weight": 121.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_gram",
+                    "label": "Gram",
+                    "weight": 1.0
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_pound",
+                    "label": "Pound",
+                    "weight": 453.59237
+                },
+                {
+                    "uri": "http://www.edamam.com/ontologies/edamam.owl#Measure_kilogram",
+                    "label": "Kilogram",
+                    "weight": 1000.0
+                }
+            ]
+        }
+    ],
+    "_links": {
+        "next": {
+            "title": "Next page",
+            "href": "https://api.edamam.com/api/food-database/v2/parser?session=40&app_id=503db9e3&app_key=347e8e6a83fe2ad918434f7c573d9060&ingr=broccoli&nutrition-type=cooking&health=alcohol-free&category=generic-foods"
+        }
+    }
+}
